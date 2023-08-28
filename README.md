@@ -45,7 +45,7 @@ Or use on-line install script:
 ## Support
 
 The prips.sh source code repository is [hosted on
-GitHub](https://github.com/honzahommer/prips.sh). There you can file bugs
+GitHub](https://github.com/stylustic/prips.sh). There you can file bugs
 on the issue tracker or submit tested pull requests for review.
 
 ## Version history
